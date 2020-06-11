@@ -9,7 +9,7 @@ H. Ahmed E. and Moustafa M. (2016). House Price Estimation from Visual and Textu
 
 Houses Dataset
 
-Description:  This is a benchmark dataset for houses prices that contains both visual and textual information. Each house is represented by four images for bedroom, bathroom, kitchen and a frontal image of the house. The dataset folder contains 2140 images, 4 images for each house. Also, it contains a text file that contains the textual metadata of the dataset. Each row in the file respesents the number of house in order. The numbers represent number of bedrooms, number of bathrooms, area of the house, zipcode and the price. Feature extraction was performed on the zipcode feature to include additional demographic variables from the American Community Survey from 2016.
+Description:  This is a benchmark dataset for houses prices that contains both visual and textual information. Each house is represented by four images for bedroom, bathroom, kitchen and a frontal image of the house. The dataset folder contains 2140 images, 4 images for each house. Also, it contains a text file that contains the textual metadata of the dataset and an xlsx file with top zipcode demographic information. Each row in the file respesents the number of house in order. The numbers represent number of bedrooms, number of bathrooms, area of the house, zipcode and the price. Feature extraction was performed on the zipcode feature to include additional demographic variables from the American Community Survey from 2016.
 
 ## **Analysis**
 

@@ -18,5 +18,5 @@ This analysis focused on using convolution neural networks to predict house pric
 ## **Files**
 
 The full dataset with extracted features can be found as described above. 
-House_Deep_Learning_Analysis.ipynb is the iPython notebook contains the neural network analysis 
-Trad_ML_Analysis.py is the script for traditional ML methods including multiple feature selection types
+# House_Deep_Learning_Analysis.ipynb is the iPython notebook contains the neural network analysis 
+# Trad_ML_Analysis.py is the script for traditional ML methods including multiple feature selection types
